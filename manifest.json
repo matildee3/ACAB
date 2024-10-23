@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "ACAB",
+  "version": "1.0",
+  "description": "Replace words in the webpage.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon/icon16.png",
+    "48": "icon/icon48.png",
+    "128": "icon/icon128.png"
+  }
+}
